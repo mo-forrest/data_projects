@@ -11,6 +11,6 @@ Review the landscape of apps on the Shopify platform, using data scraped from pu
 
 
 ## Parts
-- Part 1: App Landscape
-- Part 2: Reviews
-- Part 3: App Reviews
+- **Part 1**: App Landscape
+- **Part 2**: Reviews
+- **Part 3**: App Reviews
