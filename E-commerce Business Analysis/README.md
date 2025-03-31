@@ -9,3 +9,6 @@ Google Spreadsheet can be found [here](https://github.com/mo-forrest/data_projec
 
 ## Table of Contents for Repository Artifacts
 
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | [E-commerce Business Analysis PDF]
