@@ -4,4 +4,4 @@ The third project I worked on during Tripleten's Business Intelligence Analytics
 
 ![image](https://github.com/user-attachments/assets/275db780-df08-4afa-a20d-525619cc7adb)
 
-Google Spreadsheet can be found here. Raw data Google Spreadsheet can be found here.
+Google Spreadsheet can be found [here](https://github.com/mo-forrest/data_projects/blob/c89fbe9738e72579d1315f835f423632d0e82644/E-commerce%20Business%20Analysis/Ecommerce%20Business%20Analysis.xlsx). Raw data Google Spreadsheet can be found here.
