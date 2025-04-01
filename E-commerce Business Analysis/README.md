@@ -4,7 +4,9 @@ The third project I worked on during Tripleten's Business Intelligence Analytics
 
 ![image](https://github.com/user-attachments/assets/275db780-df08-4afa-a20d-525619cc7adb)
 
+
 Google Spreadsheet can be found [here](https://github.com/mo-forrest/data_projects/blob/c89fbe9738e72579d1315f835f423632d0e82644/E-commerce%20Business%20Analysis/Ecommerce%20Business%20Analysis.xlsx). Raw data Google Spreadsheet can be found [here](https://github.com/mo-forrest/data_projects/blob/9b6488c3dca9a5655f8971f2cfa1b2b5164fcabb/E-commerce%20Business%20Analysis/Raw%20User%20Activity.xlsx).
+
 
 
 ## Table of Contents for Repository Artifacts
@@ -15,4 +17,5 @@ Google Spreadsheet can be found [here](https://github.com/mo-forrest/data_projec
 | 2 | README.md | This page with all relevant information to the project. |
 | 3 | [Requirements.txt](https://github.com/mo-forrest/data_projects/blob/d070a7ed084d16fa75926accc2e35add59b66c2f/E-commerce%20Business%20Analysis/Requirements.txt) | Project requirements as defined by TripleTen. |
 | 4 | ReviewerGrade.png | Project feedback from reviewer.|
+
 
