@@ -16,6 +16,19 @@ Google Spreadsheet can be found [here](https://github.com/mo-forrest/data_projec
 | 1 | [E-commerce Business Analysis PDF](https://github.com/mo-forrest/data_projects/blob/fad597cc853f72a3fed695c9f58a9465fea13f75/E-commerce%20Business%20Analysis/E-Commerce%20Business%20Analysis.pdf) | The completed project in a downloadable pdf file. |
 | 2 | README.md | This page with all relevant information to the project. |
 | 3 | [Requirements.txt](https://github.com/mo-forrest/data_projects/blob/d070a7ed084d16fa75926accc2e35add59b66c2f/E-commerce%20Business%20Analysis/Requirements.txt) | Project requirements as defined by TripleTen. |
-| 4 | ReviewerGrade.png | Project feedback from reviewer.|
+| 4 | [ReviewerGrade.png](https://github.com/mo-forrest/data_projects/blob/a30ba41527f59beb2b804b6573f0565389c8ba0e/E-commerce%20Business%20Analysis/Reviewer%20Feedback.png) | Project feedback from reviewer.|
+
+
+
+## Table of Contents for README.md
+
+| Section Title | Description |
+| :------------: | ----------- | 
+| Description | Describes the final product's purpose, software, format, and included visuals. |
+| Process | Outline of how this project was created from start to finish. |
+| Data | Describes the source of data, including files, tables, and fields. |
+| Assumptions | Describes assumptions to include from TripleTen and assumptions made based on the data and task. |
+| Findings | Insights learned from the data analysis. |
+| Recommendations | Recommedations for the stakeholders based on the analysis. |
 
 
