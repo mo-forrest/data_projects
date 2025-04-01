@@ -11,4 +11,6 @@ Google Spreadsheet can be found [here](https://github.com/mo-forrest/data_projec
 
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [E-commerce Business Analysis PDF]
+| 1 | [E-commerce Business Analysis PDF](https://github.com/mo-forrest/data_projects/blob/fad597cc853f72a3fed695c9f58a9465fea13f75/E-commerce%20Business%20Analysis/E-Commerce%20Business%20Analysis.pdf) | The completed project in a downloadable pdf file. |
+| 2 | README.md | This page with all relevant information to the project. |
+| 3 | Requirements.txt | Project requirements as defined by TripleTen. |
