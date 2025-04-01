@@ -27,7 +27,7 @@ Google Spreadsheet can be found [here](https://github.com/mo-forrest/data_projec
 | [Description](https://github.com/mo-forrest/data_projects/blob/main/E-commerce%20Business%20Analysis/README.md#description) | Describes the final product's purpose, software, format, and included visuals. |
 | [Process](https://github.com/mo-forrest/data_projects/blob/main/E-commerce%20Business%20Analysis/README.md#process) | Outline of how this project was created from start to finish. |
 | [Data](https://github.com/mo-forrest/data_projects/blob/main/E-commerce%20Business%20Analysis/README.md#data) | Describes the source of data, including files, tables, and fields. |
-| Assumptions | Describes assumptions to include from TripleTen and assumptions made based on the data and task. |
+| [Assumptions](https://github.com/mo-forrest/data_projects/blob/main/E-commerce%20Business%20Analysis/README.md#assumptions) | Describes assumptions to include from TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
 | Recommendations | Recommedations for the stakeholders based on the analysis. |
 
