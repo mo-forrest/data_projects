@@ -24,7 +24,7 @@ Google Spreadsheet can be found [here](https://github.com/mo-forrest/data_projec
 
 | Section Title | Description |
 | :------------: | ----------- | 
-| Description | Describes the final product's purpose, software, format, and included visuals. |
+| [Description](https://github.com/mo-forrest/data_projects/blob/main/E-commerce%20Business%20Analysis/README.md#description) | Describes the final product's purpose, software, format, and included visuals. |
 | Process | Outline of how this project was created from start to finish. |
 | Data | Describes the source of data, including files, tables, and fields. |
 | Assumptions | Describes assumptions to include from TripleTen and assumptions made based on the data and task. |
