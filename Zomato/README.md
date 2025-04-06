@@ -9,7 +9,7 @@ During my final project in Tripleten’s Business Intelligence Analytics program
 ## Table of Contents for Repository Artifacts
 
 | File Number | Title | Description |
-| -------- | -------- | ------------ |
+| :--------: | -------- | ------------ |
 | 1 | Customer Analysis Segmentation PDF(link) | The completed project in a downloadable pdf.|
 | 2 | README.md | This page with all relevat information to the project. |
 | 3 | Requirements.txt (link) | A text file with all the project requirements provided by TripleTen.|
@@ -21,7 +21,7 @@ During my final project in Tripleten’s Business Intelligence Analytics program
 ## Table of Contents for README.md
 
 | Section Title | Description |
-| --------- | ----------- |
+| :--------: | ----------- |
 | Description(link) | Describes the final product's purpose, software, format and included visuls.|
 | Process (link) | A general outline of how this project formed from start to finish.|
 | Data (link) | Describes the source of data, including files, tables and fields.|
