@@ -14,7 +14,7 @@ During my final project in Tripleten’s Business Intelligence Analytics program
 | 2 | README.md | This page with all relevat information to the project. |
 | 3 | Requirements.txt (link) | A text file with all the project requirements provided by TripleTen.|
 | 4 | Reviewer Feedback | These are the comments left by my reviewer. |
-| 5 | [Orders.csv]([link](https://github.com/mo-forrest/data_projects/blob/4d160b53e61d572f85c8b652028ff7ca7df79882/Zomato/orders.csv) and Users.csv (link) | Raw Data excel spreadsheets provided by TripleTen.|
+| 5 | [Orders.csv](https://github.com/mo-forrest/data_projects/blob/4d160b53e61d572f85c8b652028ff7ca7df79882/Zomato/orders.csv) and [Users.csv](https://github.com/mo-forrest/data_projects/blob/529bb78ba7d9537ffc2fb80ad697de6292e12ad3/Zomato/users.csv) | Raw Data excel spreadsheets provided by TripleTen.|
 
 
 
