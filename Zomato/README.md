@@ -31,7 +31,7 @@ During my final project in Tripleten’s Business Intelligence Analytics program
 
 
 ## Description
-  * 10 excel spreadsheets
+  * 8 excel spreadsheets
   * Includes raw data, summary, analysis, and recommendations.
 
 ## Process
