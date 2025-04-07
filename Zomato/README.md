@@ -10,7 +10,7 @@ During my final project in Tripleten’s Business Intelligence Analytics program
 
 | File Number | Title | Description |
 | :--------: | -------- | ------------ |
-| 1 | Customer Analysis Segmentation PDF(link) | The completed project in a downloadable pdf.|
+| 1 | [Customer Analysis Segmentation PDF](https://github.com/mo-forrest/data_projects/blob/ad66747dcd57246a48ccb947d938d91c58dcc10a/Zomato/Customer%20Analysis%20Segmentation%20PDF.pdf) | The completed project in a downloadable pdf.|
 | 2 | README.md | This page with all relevat information to the project. |
 | 3 | Requirements.txt (link) | A text file with all the project requirements provided by TripleTen.|
 | 4 | Reviewer Feedback | These are the comments left by my reviewer. |
@@ -31,4 +31,14 @@ During my final project in Tripleten’s Business Intelligence Analytics program
 
 
 ## Description
+
+## Process
+
+## Data
+
+## Assumptions
+
+## Findings
+
+## Recommendations
 
