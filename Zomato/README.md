@@ -53,7 +53,7 @@ First I chose an area of focus to build my research plan: a Customer Analysis Se
 
 
 ## Findings
-
+![image](https://github.com/mo-forrest/data_projects/blob/1571de4c4549c9247771541c961c16e4ed9f6d1e/Zomato/Conclusions.png)
 
 
 ## Recommendations
