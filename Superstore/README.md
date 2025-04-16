@@ -8,15 +8,15 @@ The fifth project I worked on during TripleTen’s Business Intelligence Analyti
 ## Table of Contents for Repository
 | File Number | Title | Description |
 |:-----------:| ------| ----------- |
-| 1 | Superstore Analysis PDF | Completed project in a downloadable format. |
-| 2 | Superstore Analysis in Tableau | Completed project in Tableau. |
+| 1 | [Superstore Analysis PDF](https://github.com/mo-forrest/data_projects/blob/471019d4959356c1c6839e7686788dc3f8bdd7da/Superstore/Superstore%20Analysis%20PDF.pdf) | Completed project in a downloadable format. |
+| 2 | [Superstore Analysis in Tableau](https://github.com/mo-forrest/data_projects/blob/c7fe68311b90bce685335176d7ef84a1d70cb35b/Superstore/Sprint%205%20Project%20Final.twbx) | Completed project in Tableau. |
 | 3 | README.md | This page with all the relevant information for the project. |
-| 4 | Superstore Analysis Dashboard | Dashboard of sheets analyzing return rates. |
-| 5 | Superstore Dashboard Mockup | Mockup to visualize the dashboard. |
-| 6 | Superstore Story Arc | Story Arc about the dashboard. |
-| 7 | Requirements.txt | A simple text file with all the project requirements provided by TripleTen. |
-| 8 | Storytelling with Data Rubric | Criteria for the project. |
-| 9 | Reviewer Grade | Comments from the reviewer. |
+| 4 | [Superstore Analysis Dashboard](https://github.com/mo-forrest/data_projects/blob/c7fe68311b90bce685335176d7ef84a1d70cb35b/Superstore/Superstore%20Dashboard.png) | Dashboard of sheets analyzing return rates. |
+| 5 | [Superstore Dashboard Mockup](https://github.com/mo-forrest/data_projects/blob/c7fe68311b90bce685335176d7ef84a1d70cb35b/Superstore/Superstore%20Mockup.png) | Mockup to visualize the dashboard. |
+| 6 | [Superstore Story Arc](https://github.com/mo-forrest/data_projects/blob/26c2f3e1a49bb11ac099c853788edf6ea8468885/Superstore/Story%20Arc%20Photo.png) | Story Arc about the dashboard. 
+| 7 | [Storytelling with Data Rubric](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/remodeled/files/Storytelling_with_Data_Rubric.pdf) |Criteria for the project with all requirements provided by TripleTen. |
+| 8 | Reviewer Feedback | Comments from the reviewer. |
+
 
 ## Table of Contents for README.md
 | Section Title | Description |
