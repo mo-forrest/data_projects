@@ -18,7 +18,7 @@ The fifth project I worked on during TripleTen’s Business Intelligence Analyti
 | 8 | Storytelling with Data Rubric | Criteria for the project. |
 | 9 | Reviewer Grade | Comments from the reviewer. |
 
-## Table of Contents for the README.md
+## Table of Contents for README.md
 | Section Title | Description |
 | :------------: | ----------- |
 | Description | Describes the project’s purpose, software, format and included visuals. |
@@ -72,5 +72,14 @@ Then I made a dashboard to showcase the analysis. I used a mockup to plan the la
 
 
 ## Findings
+* Technology is the category most returned.
+* Root cause of returns are customers making high returns between 2-14 items each.
+* California, New York and Washington make the highest returns by region.
+* Returns spike twice a year in September and December.
+  
 
 ## Recommendations
+* **Technology is the category most returned:** To reduce returns the Superstore can prioritize selling warranties for products and limit the timeframe to make returns in this category. Promotions can also be offered to customers to make exchanges or receive store credit.
+* **Root cause of returns are customers making high returns between 2-14 items each:** To reduce returns, returns for customers can be limited per year and customers who make more than 5 returns per year can be flagged and monitored for suspicious activity. 
+* **California, New York and Washington make the highest returns by region:** To reduce returns, the company can prioritize implementing the return strategies listed above in these locations first. Including prioritizing warranties, limiting timeframes for returns, offering promotions to make exchanges or receive store credit and monitoring customers who make a high number of returns.
+* **Returns spike twice a year in September and December:** To reduce returns, the Superstore can prioritize promotions and the marketing budget during these months.
