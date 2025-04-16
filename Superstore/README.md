@@ -15,18 +15,18 @@ The fifth project I worked on during TripleTen’s Business Intelligence Analyti
 | 5 | [Superstore Dashboard Mockup](https://github.com/mo-forrest/data_projects/blob/c7fe68311b90bce685335176d7ef84a1d70cb35b/Superstore/Superstore%20Mockup.png) | Mockup to visualize the dashboard. |
 | 6 | [Superstore Story Arc](https://github.com/mo-forrest/data_projects/blob/26c2f3e1a49bb11ac099c853788edf6ea8468885/Superstore/Story%20Arc%20Photo.png) | Story Arc about the dashboard. 
 | 7 | [Storytelling with Data Rubric](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/remodeled/files/Storytelling_with_Data_Rubric.pdf) |Criteria for the project with all requirements provided by TripleTen. |
-| 8 | Reviewer Feedback | Comments from the reviewer. |
+| 8 | [Reviewer Feedback](https://github.com/mo-forrest/data_projects/blob/37990d3b02c345dd11e4fb287506a2054b9405d1/Superstore/Reviewer%20Feedback.docx) | Comments from the reviewer. |
 
 
 ## Table of Contents for README.md
 | Section Title | Description |
 | :------------: | ----------- |
-| Description | Describes the project’s purpose, software, format and included visuals. |
-| Process | General outline of project from start to finish. |
-| Data | Data source, including files, tables, and fields. |
-| Assumptions | Assumptions made based on the data and Tripleten. |
-| Findings | Insights learned from the data analysis. |
-| Recommendations | Recommend next steps for business stakeholders. |
+| [Description](https://github.com/mo-forrest/data_projects/blob/main/Superstore/README.md#description) | Describes the project’s purpose, software, format and included visuals. |
+| [Process](https://github.com/mo-forrest/data_projects/blob/main/Superstore/README.md#process) | General outline of project from start to finish. |
+| [Data](https://github.com/mo-forrest/data_projects/blob/main/Superstore/README.md#data) | Data source, including files, tables, and fields. |
+| [Assumptions](https://github.com/mo-forrest/data_projects/blob/main/Superstore/README.md#assumptions) | Assumptions made based on the data and Tripleten. |
+| [Findings](https://github.com/mo-forrest/data_projects/blob/main/Superstore/README.md#findings) | Insights learned from the data analysis. |
+| [Recommendations](https://github.com/mo-forrest/data_projects/blob/main/Superstore/README.md#recommendations) | Recommend next steps for business stakeholders. |
 
 ## Description
 * 9 worksheets in Tableau and Excel
