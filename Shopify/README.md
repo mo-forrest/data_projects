@@ -18,6 +18,19 @@ For my sixth project in Tripleten’s Business Intelligence Analytics program, I
 | 7 | [Reviewer Commments](https://github.com/mo-forrest/data_projects/blob/69c7b7977470cc4f3fd5b58f805266d6ba578b39/Shopify/Reviewer%20Feedback.docx) | Comments from the reviewer. |
 
 
+## Table of Contents for README.md
+
+| Section Title | Description |
+| :------------:| ------------ |
+| Description | Describes the project’s purpose, software, format and included visuals.|
+| Process | General outline of project from start to finish. |
+| Data | Data source, including files, tables, and fields. |
+| Assumptions | Assumptions made based on the data and Tripleten. |
+| Findings | Insights learned from the data analysis. |
+| Reccommendations | Recommend next steps for business stakeholders.|
+
+
+
 ## The Data
 - **apps**: Details of the apps on Shopify apps marketplace
 - **apps_categories**: Join tables to connect apps with categories
