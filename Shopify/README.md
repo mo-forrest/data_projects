@@ -30,12 +30,21 @@ For my sixth project in Tripleten’s Business Intelligence Analytics program, I
 | Reccommendations | Recommend next steps for business stakeholders.|
 
 
+## Description
 
-## The Data
+## Process
+
+## Data
 - **apps**: Details of the apps on Shopify apps marketplace
 - **apps_categories**: Join tables to connect apps with categories
 - **categories**: Categories of the apps. Each app has multiple categories
 - **reviews**: Each review (row) contains information on user opinion about the related app (rating and comment). Also, any responses from the developers.
+
+## Assumptions
+
+## Findings
+
+## Recommendations 
 
 
 
