@@ -11,7 +11,7 @@ During my final project in Tripleten’s Business Intelligence Analytics program
 
 | File Number | Title | Description |
 | :--------: | -------- | ------------ |
-| 1 | [Customer Analysis Segmentation PDF](https://github.com/mo-forrest/data_projects/blob/ad66747dcd57246a48ccb947d938d91c58dcc10a/Zomato/Customer%20Analysis%20Segmentation%20PDF.pdf) | Completed project in a downloadable pdf.|
+| 1 | [Customer Analysis Segmentation PDF](https://github.com/mo-forrest/data_projects/blob/44f13db657c0eb8fafed0b9e09cb4be4026a5c71/Zomato/Customer%20Analysis%20Segmentation%20PDF.pdf) | Completed project in a downloadable pdf.|
 | 2 | README.md | This page with all relevat information to the project. |
 | 3 | [Requirements](https://github.com/mo-forrest/data_projects/blob/fad249d632e4b018ac7580c884e4c9948cb5c469/Zomato/Requirements.docx) | Project requirements provided by TripleTen.|
 | 4 | [Reviewer Feedback](https://github.com/mo-forrest/data_projects/blob/ce899ceafea79cfe8a7eb72d93ad8f46c45ef0d6/Zomato/Reviewer%20Feedback.docx)| Comments from reviewer. |
