@@ -7,3 +7,4 @@
 | 3 | [Zomato](https://github.com/mo-forrest/data_projects/tree/main/Zomato)| **Customer Segmentation Analysis** with **RFM** to review purchasing behavior for Zomato restuarants via **Power BI**.|
 | 4 | [Superstore](https://github.com/mo-forrest/data_projects/tree/main/Superstore)| **Operational Review Analysis** on a Superstore to **provide recommendations** for reducing return rates and avoiding bankruptcy via **Tableau**.| 
 | 5 | [Shopify](https://github.com/mo-forrest/data_projects/tree/main/Shopify) | **Platform Analysis** on Shopify apps to find **KPIs** that contribute to a store's success via **Power BI**.|
+ 
