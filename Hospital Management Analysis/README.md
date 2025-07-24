@@ -22,10 +22,10 @@ Analysis in Excel can be found [here](https://docs.google.com/spreadsheets/d/1W3
 | Section Title | Description |
 | :------------: | ----------- | 
 | [Description](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#description) | Describes the purpose of the project. | 
-| [Process](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#process) | 
-| [Data](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#data) |
-| [Assumptions](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#assumptions) | 
-| [Recommendations]()
+| [Process](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#process) | Outline of how the project was created from start to finish. |
+| [Data](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#data) | Describes the source of data. |
+| [Assumptions](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#assumptions) | Assumptions from the Kaggle dataset. | 
+| [Recommendations](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#recommendations) | Recommendations for the stakeholders based on the analysis. |
 
 
 
