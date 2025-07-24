@@ -21,12 +21,12 @@ Analysis in Excel can be found [here](https://docs.google.com/spreadsheets/d/1W3
 ## Table of Contents for README.md
 | Section Title | Description |
 | :------------: | ----------- | 
-| [Description]( )
-| [Process]( )
-| [Data]( )
-| [Assumptions]( )
-| [Findings]( )
-| [Recommendations]( )
+| [Description](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#description) | Describes the purpose of the project. | 
+| [Process](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#process) | 
+| [Data](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#data) |
+| [Assumptions](https://github.com/mo-forrest/data_projects/blob/main/Hospital%20Management%20Analysis/README.md#assumptions) | 
+| [Recommendations]()
+
 
 
 ## Description: 
@@ -53,12 +53,12 @@ All data was downloaded from Kaggle and synthetically generated for educational 
 
 No real patient information was used for this analysis.
 
-## Findings:
+## Recommendations:
 The findings highlight three critical areas for improvement:
 
-* Appointment Management – Over half of all scheduled appointments result in cancellations or no-shows, indicating a need to streamline scheduling systems and communication processes.
-* Billing and Payment Processing – With 68% of payments pending or failed, the hospital should review its payment infrastructure to identify and address inefficiencies.
-* Provider Performance Metrics – Current data lacks insight into quality of care. Incorporating patient feedback and outcome-based measures can enhance evaluations of doctors, treatments, and insurance providers.
+* **Appointment Management** – Over half of all scheduled appointments result in cancellations or no-shows, indicating a need to streamline scheduling systems and communication processes.
+* **Billing and Payment Processing** – With 68% of payments pending or failed, the hospital should review its payment infrastructure to identify and address inefficiencies.
+* **Provider Performance Metrics** – Current data lacks insight into quality of care. Incorporating patient feedback and outcome-based measures can enhance evaluations of doctors, treatments, and insurance providers.
 
 
 
