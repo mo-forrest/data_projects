@@ -2,7 +2,7 @@
 
 Over the weekend, I downloaded a hospital management dataset from Kaggle and performed an exploratory data analysis(EDA) to analyze operational efficiency and identify areas for improvement.
 
-![image](<img width="1181" height="703" alt="Screenshot 2025-07-23 8 05 11 PM" src="https://github.com/user-attachments/assets/4d8b4287-958b-4087-8ef6-c610fdc84993" />)
+![image](Screenshot 2025-07-23 8.05.11 PM.png)
 
 
 Analysis in Excel can be found [here](<img width="1181" height="703" alt="Screenshot 2025-07-23 8 05 11 PM" src="https://github.com/user-attachments/assets/4ee40657-87c5-413c-a793-b73c3bfcf521" />)
